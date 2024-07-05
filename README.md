@@ -13,8 +13,8 @@ Dự án này nhằm mục đích nhận dạng biển số xe bằng các mô h
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Balicki24/License-PLate.git
+   cd License-PLate
 2. **Install the required libraries:**
    ```bash
    pip install -r requirements.txt
